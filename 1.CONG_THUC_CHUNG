@@ -21,4 +21,5 @@ Sub CONG_THUC_CHUNG()
     Dim dd As Integer
 
     'chán vãi
+    'thử trên cloud
 End Sub
