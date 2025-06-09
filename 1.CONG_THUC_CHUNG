@@ -1,0 +1,22 @@
+Sub CONG_THUC_CHUNG()
+    Dim i As Integer
+    Dim j As Integer
+    Dim k As Integer
+    Dim m As Integer
+    Dim n As Integer
+    Dim p As Integer
+    Dim q As Integer
+    Dim r As Integer
+    Dim s As Integer
+    Dim t As Integer
+    Dim u As Integer
+    Dim v As Integer
+    Dim w As Integer
+    Dim x As Integer
+    Dim y As Integer
+    Dim z As Integer
+    Dim aa As Integer
+    Dim bb As Integer
+    Dim cc As Integer
+    Dim dd As Integer
+End Sub
